@@ -27,6 +27,7 @@
   color: #ee6e73;
   display: block;
   margin-bottom: 20px;
+  max-width: 768px;
   
 }
 .collection .collection-item img{
